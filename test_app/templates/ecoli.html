@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+
+
+
+{% block body %}
+<table id="table_id" class ="display" style="margin-left:200px">
+    <thead class ="thead-dark">
+        <tr>
+            <th>Plate ID </th>
+            <th>Study</th>
+            <th>Plate Type</th>
+            <th>Species</th>
+            <th>Strain</th>
+            <th>Media</th>
+            <th>Rep</th>
+            <th>Setup Time</th>
+        </tr>
+    </thead>
+</table>
+
+
+<script>
+    $(document).ready(function() {
+        $('#table_id').DataTable( {
+            "ajax": '/strains/json',
+            "lengthChange": false,
+            "deferRender": true,
+            "info": false,
+            "lengthMenu": [[50, 100, 150, -1], [50, 100, 150, "All"]]
+        } );
+    } );
+</script>
+
+{% endblock %}
