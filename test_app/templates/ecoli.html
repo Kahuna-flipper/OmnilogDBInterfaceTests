@@ -1,15 +1,21 @@
 {% extends 'base.html' %}
 
 {% block head %}
-
+<style>
+    .dtableforstrain{
+        margin-left:200px;
+    }
+</style>
 {% endblock %}
 
 
 
 
 {% block body %}
-<table id="table_id" class ="display" style="margin-left:200px">
-    <thead class ="thead-dark">
+
+<div class = "dtableforstrain">
+<table id="table_id" class ="ui celled table" style="width:fit-content;">
+    <thead class="table-success">
         <tr>
             <th>Plate ID </th>
             <th>Study</th>
@@ -23,17 +29,21 @@
     </thead>
 </table>
 
+</div>
 
+{% endblock %}
+
+{% block script%}
 <script>
     $(document).ready(function() {
         $('#table_id').DataTable( {
             "ajax": '/strains/json',
-            "lengthChange": false,
+            "lengthChange": true,
             "deferRender": true,
-            "info": false,
-            "lengthMenu": [[50, 100, 150, -1], [50, 100, 150, "All"]]
+            "info": true,
+            "lengthMenu": [[50, 100, 150, -1], [50, 100, 150, "All"]],
         } );
     } );
 </script>
 
-{% endblock %}
+{%endblock%}
