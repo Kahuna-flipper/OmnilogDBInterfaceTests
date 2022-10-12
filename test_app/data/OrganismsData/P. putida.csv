@@ -1,0 +1,171 @@
+Strain,Studies,Media Types
+15070,P. putida JBEI. ,IF0. 
+31753,P. putida JBEI. ,IF0. 
+49688,P. putida JBEI. ,IF0. 
+68832,P. putida JBEI. ,IF0. 
+700097,P. putida JBEI. ,IF0. 
+11172,P. putida JBEI. ,IF0. 
+23484,P. putida JBEI. ,IF0. 
+795,P. putida JBEI. ,IF0. 
+598,P. putida JBEI. ,IF0. 
+12842,P. putida JBEI. ,IF0. 
+17428,P. putida JBEI. ,IF0. 
+17453,P. putida JBEI. ,IF0. 
+17514,P. putida JBEI. ,IF0. 
+17485,P. putida JBEI. ,IF0. 
+17494,P. putida JBEI. ,IF0. 
+21025,P. putida JBEI. ,IF0. 
+8209,P. putida JBEI. ,IF0. 
+13795,P. putida JBEI. ,M9. 
+17502,P. putida JBEI. ,M9. 
+17390,P. putida JBEI. ,M9. 
+700447,P. putida JBEI. ,M9. 
+GN02254,Duke E.coli. ,IF0. IF10b. 
+GN02290,Duke E.coli. ,IF0. IF10b. 
+GN03132,Duke E.coli. ,IF0. 
+GN03218,Duke E.coli. ,IF0. 
+ELI256,Pride E.coli. ,IF0. 
+ELI96,Pride E.coli. ,IF0. 
+ELI163,Pride E.coli. ,IF0. 
+ELI176,Pride E.coli. ,IF0. 
+ELI193,Pride E.coli. ,IF0. 
+ELI215,Pride E.coli. ,IF0. 
+ELI229,Pride E.coli. ,IF0. 
+ELI247,Pride E.coli. ,IF0. 
+ELI261,Pride E.coli. ,IF0. 
+ELI271,Pride E.coli. ,IF0. 
+ELI289,Pride E.coli. ,IF0. 
+ELI310,Pride E.coli. ,IF0. 
+ELI328,Pride E.coli. ,IF0. 
+ELI337,Pride E.coli. ,IF0. 
+ELI92,Pride E.coli. ,IF0. 
+GN03252,Duke E.coli. ,IF0. 
+GN04306,Duke E.coli. ,IF0. 
+GN04563,Duke E.coli. ,IF0. 
+GN04612,Duke E.coli. ,IF0. 
+GN05377,Duke E.coli. ,IF0. 
+GN05918,Duke E.coli. ,IF0. 
+ELI102,Pride E.coli. ,M9. 
+ELI124,Pride E.coli. ,M9. 
+ELI131,Pride E.coli. ,M9. 
+ELI133,Pride E.coli. ,M9. 
+ELI135,Pride E.coli. ,M9. 
+ELI147,Pride E.coli. ,M9. 
+ELI155,Pride E.coli. ,M9. 
+ELI156,Pride E.coli. ,M9. 
+ELI157,Pride E.coli. ,M9. 
+ELI158,Pride E.coli. ,M9. 
+ELI17,Pride E.coli. ,M9. 
+ELI35,Pride E.coli. ,M9. 
+ELI74,Pride E.coli. ,M9. 
+ELI9,Pride E.coli. ,M9. 
+GN02005,Duke E.coli. ,M9. IF10b. 
+GN02099,Duke E.coli. ,M9. IF10b. 
+GN02148,Duke E.coli. ,M9. IF10b. 
+GN02165,Duke E.coli. ,M9. IF10b. 
+GN02169,Duke E.coli. ,M9. IF10b. 
+GN02172,Duke E.coli. ,M9. IF10b. 
+GN02175,Duke E.coli. ,M9. IF10b. 
+GN02183,Duke E.coli. ,M9. IF10b. 
+GN02215,Duke E.coli. ,M9. IF10b. 
+GN02277,Duke E.coli. ,M9. IF10b. 
+GN02317,Duke E.coli. ,M9. IF10b. 
+GN02337,Duke E.coli. ,M9. IF10b. 
+GN02354,Duke E.coli. ,M9. IF10b. 
+GN02375,Duke E.coli. ,M9. IF10b. 
+GN02380,Duke E.coli. ,M9. IF10b. 
+GN02007,Duke E.coli. ,M9. IF10b. 
+GN02009,Duke E.coli. ,M9. IF10b. 
+GN02094,Duke E.coli. ,M9. IF10b. 
+BW25113,Saier collab. ,IF10b. M9+20mM L-Glutamate. IF10b+20mM L-Glutamate. IF10b+Inosine. IF10+Inosine. 
+BW25113 delta mdlA,Saier collab. ,IF10b. 
+BW25113 delta mdlB,Saier collab. ,IF10b. 
+BW AcrAB-KO,Saier collab. ,IF10b. 
+BW AcrAB-Yhhs-YfcJ-KO,Saier collab. ,IF10b. 
+ATCC12633,P. putida JBEI. ,M9. 
+ATCC17522,P. putida JBEI. ,M9. 
+ATCC23973,P. putida JBEI. ,M9. 
+ATCC23974,P. putida JBEI. ,M9. 
+ATCC25571,P. putida JBEI. ,M9. 
+ATCC31800,P. putida JBEI. ,M9. 
+ATCC43142,P. putida JBEI. ,M9. 
+ATCC4359,P. putida JBEI. ,M9. 
+ATCC53645,P. putida JBEI. ,M9. 
+ATCC700359,P. putida JBEI. ,M9. 
+KT2440,P. putida JBEI. ,M9. 
+D592,Sakoulas strains. D592. ,MHB. RPMI. 10b. M9. 
+D712,Sakoulas strains. ,MHB. RPMI. 
+LAC,Sakoulas strains. LAC. ,MHB. RPMI. RPMI-LB. SS-LB. 
+Sakoulas_1,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_12,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_14,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_2,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_20,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_22,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_23,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_26,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_28,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_29,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_31,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_33,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_38,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_40,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_42,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_43,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_45,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_5,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_6,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_7,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_9,Sakoulas strains. ,MHB. RPMI. 
+BW25113 delta ydhS,Saier collab. ,M9. 
+BW25113 delta yieP,Saier collab. ,M9. 
+BW25113 delta yiaG,Saier collab. ,M9+20mM L-Glutamate. 
+BW25113 delta yneJ,Saier collab. ,M9+20mM L-Glutamate. IF10b. IF10b+20mM L-Glutamate. 
+BW25113 delta ydhC,Saier collab. ,IF10b. IF10. IF10b+Inosine. 
+BW25113 delta arcAB Kanamycin+,Saier collab. ,IF0a. 
+BW25113 delta arcAB yfcJ yhhS Kanamycin-,Saier collab. ,IF0a. 
+A220 orig 1,Mouse E. colis. ,IF0. 
+A220 orig 2,Mouse E. colis. ,IF0. 
+A220 orig 3,Mouse E. colis. ,IF0. 
+A251 orig 1,Mouse E. colis. ,IF0. 
+A220 25N -1,Mouse E. colis. ,IF0. 
+A220 25N -13,Mouse E. colis. ,IF0. 
+A220 25N -24,Mouse E. colis. ,IF0. 
+A220 28N -1,Mouse E. colis. ,IF0. 
+A220 28N -13,Mouse E. colis. ,IF0. 
+A220 28N -24,Mouse E. colis. ,IF0. 
+A251 orig -2,Mouse E. colis. ,IF0. 
+A251 orig -3,Mouse E. colis. ,IF0. 
+Sakoulas_13,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_15,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_18,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_19,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_21,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_24,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_27,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_30,Sakoulas strains. ,MHB. RPMI. 
+Sakoulas_35,Sakoulas strains. ,MHB. RPMI. 
+LT2 deltaFur,Gao. ,IF10b. 
+LT2,Gao. ,IF10b. 
+042 deltaFur,Gao. ,IF10b. 
+042,Gao. ,IF10b. 
+BL21 deltaFur,Gao. ,IF10b. 
+BL21,Gao. ,IF10b. 
+CFT073 deltaFur,Gao. ,IF10b. 
+CFT073,Gao. 3colis. ,IF10b. IF0. 
+Crooks deltaFur,Gao. ,IF10b. 
+Crooks,Gao. ,IF10b. 
+KO11FL deltaFur,Gao. ,IF10b. 
+KO11FL,Gao. ,IF10b. 
+MG1655 deltaFur,Gao. ,IF10b. 
+Sakai deltaFur,Gao. ,IF10b. 
+Sakai,Gao. ,IF10b. 
+W deltaFur,Gao. ,IF10b. 
+W,Gao. ,IF10b. 
+W3110 deltaFur,Gao. ,IF10b. 
+W3110,Gao. ,IF10b. 
+MG1655,Gao. 3colis. M9vsIF0. ,IF10b. IF0. M9. 
+JM3,3colis. M9vsIF0. ,IF0. M9. 
+TCH1516,D592. ,10b. M9. RPMI. 
+K-12 MG1655,Irina yTF. ,M9 + 18mM L-glutamate. 
+MG1655 delta ygbI,Irina yTF. ,M9 + 18mM L-glutamate. 
