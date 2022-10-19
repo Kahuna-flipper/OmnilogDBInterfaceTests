@@ -3,7 +3,9 @@
 {% block head %}
 <style>
     .dtableforstrain{
-        margin-left:200px;
+        margin-left:250px;
+        margin-right: 100px;
+        height:50px;
     }
 </style>
 {% endblock %}
@@ -12,19 +14,26 @@
 
 
 {% block body %}
+<br>
+<br>
+<br>
 
 <div class = "dtableforstrain">
-<table id="table_id" class ="ui celled table" style="width:fit-content;">
+<table id="table_id" class ="ui celled table">
     <thead class="table-success">
         <tr>
-            <th>Plate ID </th>
+            <!-- <th>Plate ID </th>
             <th>Study</th>
             <th>Plate Type</th>
             <th>Species</th>
             <th>Strain</th>
             <th>Media</th>
             <th>Rep</th>
-            <th>Setup Time</th>
+            <th>Setup Time</th> -->
+            <th>Specie</th>
+            <th>Strains</th>
+            <th>Studies</th>
+            <th>Media Types</th>
         </tr>
     </thead>
 </table>
@@ -41,7 +50,7 @@
             "lengthChange": true,
             "deferRender": true,
             "info": true,
-            "lengthMenu": [[50, 100, 150, -1], [50, 100, 150, "All"]],
+            "lengthMenu": [[10, 50, 80, -1], [10, 50, 80, "All"]],
         } );
     } );
 </script>
