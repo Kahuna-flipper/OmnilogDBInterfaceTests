@@ -1,0 +1,103 @@
+Specie,Strain,Studies,Media Types
+E. coli,GN02254,Duke E.coli. ,IF0. IF10b. 
+E. coli,GN02290,Duke E.coli. ,IF0. IF10b. 
+E. coli,GN03132,Duke E.coli. ,IF0. 
+E. coli,GN03218,Duke E.coli. ,IF0. 
+E. coli,ELI256,Pride E.coli. ,IF0. 
+E. coli,ELI96,Pride E.coli. ,IF0. 
+E. coli,ELI163,Pride E.coli. ,IF0. 
+E. coli,ELI176,Pride E.coli. ,IF0. 
+E. coli,ELI193,Pride E.coli. ,IF0. 
+E. coli,ELI215,Pride E.coli. ,IF0. 
+E. coli,ELI229,Pride E.coli. ,IF0. 
+E. coli,ELI247,Pride E.coli. ,IF0. 
+E. coli,ELI261,Pride E.coli. ,IF0. 
+E. coli,ELI271,Pride E.coli. ,IF0. 
+E. coli,ELI289,Pride E.coli. ,IF0. 
+E. coli,ELI310,Pride E.coli. ,IF0. 
+E. coli,ELI328,Pride E.coli. ,IF0. 
+E. coli,ELI337,Pride E.coli. ,IF0. 
+E. coli,ELI92,Pride E.coli. ,IF0. 
+E. coli,GN03252,Duke E.coli. ,IF0. 
+E. coli,GN04306,Duke E.coli. ,IF0. 
+E. coli,GN04563,Duke E.coli. ,IF0. 
+E. coli,GN04612,Duke E.coli. ,IF0. 
+E. coli,GN05377,Duke E.coli. ,IF0. 
+E. coli,GN05918,Duke E.coli. ,IF0. 
+E. coli,ELI102,Pride E.coli. ,M9. 
+E. coli,ELI124,Pride E.coli. ,M9. 
+E. coli,ELI131,Pride E.coli. ,M9. 
+E. coli,ELI133,Pride E.coli. ,M9. 
+E. coli,ELI135,Pride E.coli. ,M9. 
+E. coli,ELI147,Pride E.coli. ,M9. 
+E. coli,ELI155,Pride E.coli. ,M9. 
+E. coli,ELI156,Pride E.coli. ,M9. 
+E. coli,ELI157,Pride E.coli. ,M9. 
+E. coli,ELI158,Pride E.coli. ,M9. 
+E. coli,ELI17,Pride E.coli. ,M9. 
+E. coli,ELI35,Pride E.coli. ,M9. 
+E. coli,ELI74,Pride E.coli. ,M9. 
+E. coli,ELI9,Pride E.coli. ,M9. 
+E. coli,GN02005,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02099,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02148,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02165,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02169,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02172,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02175,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02183,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02215,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02277,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02317,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02337,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02354,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02375,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02380,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02007,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02009,Duke E.coli. ,M9. IF10b. 
+E. coli,GN02094,Duke E.coli. ,M9. IF10b. 
+E. coli,BW25113,Saier collab. ,IF10b. M9+20mM L-Glutamate. IF10b+20mM L-Glutamate. IF10b+Inosine. IF10+Inosine. 
+E. coli,BW25113 delta mdlA,Saier collab. ,IF10b. 
+E. coli,BW25113 delta mdlB,Saier collab. ,IF10b. 
+E. coli,BW AcrAB-KO,Saier collab. ,IF10b. 
+E. coli,BW AcrAB-Yhhs-YfcJ-KO,Saier collab. ,IF10b. 
+E. coli,BW25113 delta ydhS,Saier collab. ,M9. 
+E. coli,BW25113 delta yieP,Saier collab. ,M9. 
+E. coli,BW25113 delta yiaG,Saier collab. ,M9+20mM L-Glutamate. 
+E. coli,BW25113 delta yneJ,Saier collab. ,M9+20mM L-Glutamate. IF10b. IF10b+20mM L-Glutamate. 
+E. coli,BW25113 delta ydhC,Saier collab. ,IF10b. IF10. IF10b+Inosine. 
+E. coli,BW25113 delta arcAB Kanamycin+,Saier collab. ,IF0a. 
+E. coli,BW25113 delta arcAB yfcJ yhhS Kanamycin-,Saier collab. ,IF0a. 
+E. coli,A220 orig 1,Mouse E. colis. ,IF0. 
+E. coli,A220 orig 2,Mouse E. colis. ,IF0. 
+E. coli,A220 orig 3,Mouse E. colis. ,IF0. 
+E. coli,A251 orig 1,Mouse E. colis. ,IF0. 
+E. coli,A220 25N -1,Mouse E. colis. ,IF0. 
+E. coli,A220 25N -13,Mouse E. colis. ,IF0. 
+E. coli,A220 25N -24,Mouse E. colis. ,IF0. 
+E. coli,A220 28N -1,Mouse E. colis. ,IF0. 
+E. coli,A220 28N -13,Mouse E. colis. ,IF0. 
+E. coli,A220 28N -24,Mouse E. colis. ,IF0. 
+E. coli,A251 orig -2,Mouse E. colis. ,IF0. 
+E. coli,A251 orig -3,Mouse E. colis. ,IF0. 
+E. coli,042 deltaFur,Gao. ,IF10b. 
+E. coli,042,Gao. ,IF10b. 
+E. coli,BL21 deltaFur,Gao. ,IF10b. 
+E. coli,BL21,Gao. ,IF10b. 
+E. coli,CFT073 deltaFur,Gao. ,IF10b. 
+E. coli,CFT073,Gao. 3colis. ,IF10b. IF0. 
+E. coli,Crooks deltaFur,Gao. ,IF10b. 
+E. coli,Crooks,Gao. ,IF10b. 
+E. coli,KO11FL deltaFur,Gao. ,IF10b. 
+E. coli,KO11FL,Gao. ,IF10b. 
+E. coli,MG1655 deltaFur,Gao. ,IF10b. 
+E. coli,Sakai deltaFur,Gao. ,IF10b. 
+E. coli,Sakai,Gao. ,IF10b. 
+E. coli,W deltaFur,Gao. ,IF10b. 
+E. coli,W,Gao. ,IF10b. 
+E. coli,W3110 deltaFur,Gao. ,IF10b. 
+E. coli,W3110,Gao. ,IF10b. 
+E. coli,MG1655,Gao. 3colis. M9vsIF0. ,IF10b. IF0. M9. 
+E. coli,JM3,3colis. M9vsIF0. ,IF0. M9. 
+E. coli,K-12 MG1655,Irina yTF. ,M9 + 18mM L-glutamate. 
+E. coli,MG1655 delta ygbI,Irina yTF. ,M9 + 18mM L-glutamate. 
